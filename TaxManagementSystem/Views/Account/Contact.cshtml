@@ -1,0 +1,115 @@
+﻿@model TaxManagementSystem.Models.ContactInfo
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>@ViewBag.Title US NOW</h2>
+
+<div class="row">
+
+    <hr />
+    <div class="col-md-6">
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+
+
+                @Html.ValidationSummary(true)
+                @Html.HiddenFor(model => model.Id)
+
+                <h3 class="text-success"> @TempData["C_mgs"]</h3>
+
+                <div class="form-group">
+
+                    @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(model => model.Name, htmlAttributes: new { @class = "form-control " })
+
+                        @Html.ValidationMessageFor(model => model.Name)
+                    </div>
+
+
+                </div>
+
+
+                <div class="form-group">
+
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(model => model.Email, htmlAttributes: new { @class = "form-control " })
+
+                        @Html.ValidationMessageFor(model => model.Email)
+                    </div>
+
+
+
+                </div>
+
+
+                <div class="form-group">
+
+                    @Html.LabelFor(model => model.Phone, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(model => model.Phone, htmlAttributes: new { @class = "form-control " })
+
+                        @Html.ValidationMessageFor(model => model.Phone)
+                    </div>
+
+
+
+                </div>
+
+
+
+                <div class="form-group">
+
+
+                    @Html.LabelFor(model => model.FeedBack, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.TextAreaFor(model => model.FeedBack, htmlAttributes: new { @class = "form-control " })
+
+                        @Html.ValidationMessageFor(model => model.FeedBack)
+                    </div>
+
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Send Feed Back" class="btn btn-success" />
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+        }
+
+
+    </div>
+
+
+    <div class="col-md-6">
+
+        <h1> HEAD OFFICE ADDRESS </h1>  <p></p>
+        <address class="h4">
+
+            Department of Computer Science,<br />     <p></p>
+            Faculty of Science,<br />     <p></p>
+            National Open University of Nigeria, Abuja, Nigeria.<br />     <p></p>
+
+
+
+        </address>
+
+
+    </div>
+
+</div>

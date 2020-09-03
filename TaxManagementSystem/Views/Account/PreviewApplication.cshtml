@@ -1,0 +1,114 @@
+﻿@model TaxManagementSystem.Models.ApplyForTax
+
+@{
+    ViewBag.Title = "PreviewApplication";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Preview Applications </h2>
+
+
+                
+<table class="table col-md-6">
+
+    @using (Html.BeginForm())
+    {
+        
+            @Html.AntiForgeryToken()
+
+
+            @Html.ValidationSummary(true)
+       
+
+        <tr>
+            <td> Personal Email </td>
+
+            <td> @Session["P_Email"]</td>
+
+        </tr>
+
+
+        <tr>
+            <td>  BVN</td>
+
+            <td> @Session["BVN"]</td>
+
+        </tr>
+
+
+        <tr>
+            <td> Company Name </td>
+
+            <td> @Session["CompanyName"]</td>
+
+        </tr>
+
+
+        <tr>
+            <td> Staff Id</td>
+
+            <td> @Session["StaffId"]</td>
+
+        </tr>
+
+
+
+
+        <tr>
+            <td> Company Physical Address </td>
+
+            <td> @Session["CompanyAddress"]</td>
+
+        </tr>
+
+        <tr>
+            <td> Company Website </td>
+
+            <td> @Session["CompanyWebsite"]</td>
+
+        </tr>
+
+        <tr>
+            <td> Company Phone Number </td>
+
+            <td> @Session["CompanyContcat"] </td>
+
+        </tr>
+        <tr>
+            <td> Current Salary</td>
+
+            <td> @Session["Salary"]</td>
+
+        </tr>
+
+        <tr>
+            <td> Current Position</td>
+
+            <td> @Session["Position"]</td>
+
+        </tr>
+
+
+
+
+
+
+        <tr>
+            <td>
+
+                @Html.ActionLink(" Make Changes", "ApplyForTax", "Account", routeValues: null, htmlAttributes: new { @class = " btn btn-warning" })
+            </td>
+
+            <td>
+
+                <input type="submit" value=" Submit Detials" class="btn btn-success" />
+
+            </td>
+
+        </tr>
+
+
+    }
+
+
+</table>

@@ -1,0 +1,89 @@
+﻿@model IEnumerable<TaxManagementSystem.Models.ApplyForTax>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Admin Panel</title>
+</head>
+<body>
+    <p>
+
+        <h3 class="alert-success"> @TempData["D"]</h3>
+
+
+    </p>
+    <table class="table table-bordered table-hover">
+        <tr style="color:white; background-color:blueviolet;">
+            <th>
+                TIN
+            </th>
+            <th>
+                Compnay Name
+            </th>
+            <th>
+                Company  Address
+            </th>
+            <th>
+                Staff Id
+            </th>
+            <th>
+                Current Position
+            </th>
+            <th>
+                Current Salary
+            </th>
+            <th>
+                Contact Number
+            </th>
+            <th>
+               Payment Status
+            </th>
+            <th> Manage Users</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserTin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompnayName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyPhsicalAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StaffId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CurrentPosition)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CurrentSalary)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyContactNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyWebsite)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.BVN }, htmlAttributes: new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Details", "Details", new { id = item.BVN }, htmlAttributes: new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.BVN }, htmlAttributes: new { @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    <h3 class="alert-danger" > @TempData["Mgs1"] </h3>
+</body>
+</html>

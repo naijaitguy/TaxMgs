@@ -1,0 +1,54 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <meta name="viewport" content="width=device-width" />
+    <title>_AdminLayout</title>
+</head>
+<body>
+
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="@Url.Action("Home","Account")" class="navbar-brand">
+
+                    <img src="../Content/Image/tttt.png" height="50" class=" img-rounded" />
+                    TAX MANAGEMENT SYSTEM
+                </a>
+            </div>
+            <div class="navbar-collapse collapse">
+
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("My Profile", "MyProfile", new { id = Session["UserName"] })</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Log Off", "LogOff", "Admin")</li>
+                </ul>
+
+                <h4 class="text-success navbar-right">    Welcome Admin User - @Session["AdminUser"] <br /> Your Last login Was on  @Session["AdminLastLogin"] </h4>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container-fluid body-content" style="margin-top:40px">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - FIRS Tax Management System - Developed By -Kemi</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

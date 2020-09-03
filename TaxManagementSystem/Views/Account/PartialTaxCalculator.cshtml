@@ -1,0 +1,72 @@
+﻿@model TaxManagementSystem.Models.CalcutaeTax
+
+ 
+    @if (Session["TaxableIncom"] != null)
+    { 
+
+<div>
+    <h2 class="text-primary"> Extimated Tax calculated</h2>
+	<hr />
+
+    <table class="table table-responsive">
+        <tr>
+            <td> Gross Income </td> <td> @TempData["GrossIncome"] </td>
+        </tr>
+
+        
+
+
+        <tr>
+            <td>Tax Relief </td>
+            <td> @TempData["TaxRelief"] </td>
+        </tr>
+
+
+        <tr>
+            <td>Consolidated Relief Allowance  </td>
+            <td>@TempData["ConsolidatedAllowance"] </td> 
+        </tr>
+
+
+        <tr>
+            <td> Total NonTaxable Income   </td>
+            <td>@TempData["NonTaxableIncome"] </td>
+        </tr>
+
+
+
+        <tr>
+            <td> Total Taxable Income   </td>
+            <td>@TempData["TaxableIncom"]</td>
+        </tr>
+
+
+        <tr>
+            <td> <h2> Total Amount of Tax Due </h2>    </td>
+            <td> <h2> @TempData["Tax"] </h2></td>
+        </tr>
+
+
+
+
+
+
+        
+
+
+
+    </table>
+
+    
+
+  
+</div>
+<p>
+
+    <h4>
+
+        |
+        @Html.ActionLink("Calculate New Tax", "CalculateTax")
+    </h4>
+</p>
+    } 

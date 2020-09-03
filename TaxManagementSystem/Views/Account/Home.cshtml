@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+   @Html.Partial("slider")
+</div>
+
+
+
+
+
+<div class="row">
+    <div class="col-md-4">
+  
+        
+       @Html.ActionLink("Apply for TIN", "ApplyForTax", "Account", routeValues:null, htmlAttributes: new { @class ="btn-block btn btn-primary btn-lg"})   
+     @Html.ActionLink("Calculate Tax", "CalculateTax", "Account", routeValues: null, htmlAttributes: new { @class = "btn btn-block btn-warning btn-lg" }) 
+        @Html.ActionLink("Manage Profile", "ManageAccount", new { id = Session["UserName"] }, htmlAttributes: new { @class = "btn btn-block btn-danger btn-lg" })
+        @Html.ActionLink("Pay Tax ", "PayTax", "Account", routeValues: null, htmlAttributes: new { @class = "btn btn-block btn-success btn-lg" })
+    </div>
+  
+    <div class="col-md-8">
+        
+        <h2 class="text-primary">Letest News </h2>
+        <p>Do you know you can pay your tax with your mobile phone  <button class="btn btn-sm btn-success"> Learn More > </button></p>
+        <p>FIRS Tax Management System ha made paying and keeping track of Tax esasy<br /> see nhow <button class="btn btn-sm btn-primary"> Read More > </button></p>
+       
+
+    </div>
+</div>

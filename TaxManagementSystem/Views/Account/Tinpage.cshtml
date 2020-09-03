@@ -1,0 +1,38 @@
+﻿
+
+@{
+    ViewBag.Title = "Tinpage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-primary ">Tax Application Confirmation </h2>
+
+<div class="row">
+    <div class="col-md-5">
+
+
+        <table class="table table-responsive table-hover table-bordered">
+
+            <tr> <td> TIN</td>   <td> @Session["UserTin"]</td> </tr>
+            <tr> <td> Personal Email</td>   <td> @Session["P_Email"]</td> </tr>
+            <tr> <td>Company Name </td>   <td>  @Session["CompanyName"]</td> </tr>
+            <tr> <td> BVN </td>   <td>  @Session["BVN"]</td> </tr>
+            <tr> <td> Company Address</td>   <td>  @Session["CompanyAddress"]</td> </tr>
+            <tr> <td> Staff ID</td>   <td>    @Session["StaffId"]</td> </tr>
+            <tr> <td> Current Position </td>   <td>    @Session["Position"]</td> </tr>
+            <tr> <td> Current Salary </td>   <td> @Session["Salary"]</td> </tr>
+            <tr> <td> Company Phone Number </td>   <td>@Session["CompanyContcat"] </td> </tr>
+            <tr> <td> Company Website </td>   <td>    @Session["CompanyAddress"]</td> </tr>
+
+
+        </table>
+
+
+        <p>
+
+            @Html.ActionLink("Back to Home Page", "Home", "Account", routeValues: null, htmlAttributes: new { @class = " btn btn-warning" })
+        </p>
+
+    </div>
+
+</div>

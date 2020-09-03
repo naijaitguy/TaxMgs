@@ -1,0 +1,108 @@
+﻿@model TaxManagementSystem.Models.ApplyForTax
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container">
+    <h2 class="text-primary">Edit Details</h2>
+   <div class="alert-success">
+       <h3>   @TempData["Suc"]</h3>
+
+
+   </div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            <hr />
+            @Html.ValidationSummary(true)
+            @Html.HiddenFor(model => model.BVN)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.UserTin, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.UserTin, htmlAttributes: new { @class = "form-control ", @disabled = "disabled" })
+
+                    @Html.ValidationMessageFor(model => model.UserTin)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CompnayName, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CompnayName, htmlAttributes: new { @class = "form-control " })
+                    @Html.ValidationMessageFor(model => model.CompnayName)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CompanyPhsicalAddress, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CompanyPhsicalAddress, htmlAttributes: new { @class = "form-control " })
+                    @Html.ValidationMessageFor(model => model.CompanyPhsicalAddress)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.StaffId, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.StaffId, htmlAttributes: new { @class = "form-control " })
+                    @Html.ValidationMessageFor(model => model.StaffId)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CurrentPosition, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CurrentPosition, htmlAttributes: new { @class = "form-control " })
+                    @Html.ValidationMessageFor(model => model.CurrentPosition)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CurrentSalary, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CurrentSalary, htmlAttributes: new { @class = "form-control " })
+                    @Html.ValidationMessageFor(model => model.CurrentSalary)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CompanyContactNumber, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CompanyContactNumber, htmlAttributes: new { @class = "form-control " })
+                    @Html.ValidationMessageFor(model => model.CompanyContactNumber)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CompanyWebsite, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.CompanyWebsite, htmlAttributes: new { @class = "form-control " })
+                    @Html.ValidationMessageFor(model => model.CompanyWebsite)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save Update" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "AdminPanel")
+    </div>
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

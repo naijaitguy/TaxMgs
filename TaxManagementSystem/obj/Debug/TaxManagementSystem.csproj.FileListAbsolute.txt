@@ -1,0 +1,215 @@
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.dll.config
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.pdb
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Owin.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Razor.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\WebGrease.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Razor.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.pdb
+C:\Users\BITS CYBER TECH\documents\visual studio 2013\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.dll.config
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.pdb
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Owin.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Razor.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\WebGrease.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Razor.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csproj.CopyComplete
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.pdb
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.InitialCreate.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csproj.GenerateResource.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.Applytaxtable.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.dataantonatinn.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.bvn.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.usertin.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.requird.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.fore.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.removeid.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.forekey.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.AdminUser.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.required.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.taxamount.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.taxeelief.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.contact.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.deledcascade.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.record.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.edit.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations._string.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.st.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.valid.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.validation.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.neww.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.reall.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csprojAssemblyReference.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.myreal.resources
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2017\Projects\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations._121212.resources
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.dll.config
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\TaxManagementSystem.pdb
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\WebGrease.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.pdb
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.Migrations.new1.resources
+C:\Users\USER\Documents\Visual Studio 2017\TaxManagementSystem\TaxManagementSystem\obj\Debug\TaxManagementSystem.csproj.GenerateResource.cache

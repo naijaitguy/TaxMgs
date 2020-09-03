@@ -1,0 +1,140 @@
+﻿@model IEnumerable<TaxManagementSystem.Models.TaxRegApplication>
+
+<p>
+    <h2 class="text-primary">  Your FIRS Infomation </h2>
+</p>
+
+<table class="table table-bordered">
+    <tr></tr>
+
+    @foreach (var item in Model)
+    {
+
+
+
+        <tr>
+
+            <th> User Tin</th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().ApplyForTaxs.UserTin)  </td>
+
+
+        </tr>
+
+
+        <tr>
+
+            <th> Full Name</th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().TaxRegistrations.FullName)  </td>
+
+
+        </tr>
+
+        <tr>
+
+            <th> Home Address</th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().TaxRegistrations.Address)  </td>
+
+
+        </tr>
+
+
+        <tr>
+
+            <th> Email </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().TaxRegistrations.Email)  </td>
+
+
+        </tr>
+
+
+        <tr>
+
+            <th>Personal Phone Number </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().TaxRegistrations.PhoneNo)  </td>
+
+
+        </tr>
+        <tr>
+
+            <th>Company Name </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().ApplyForTaxs.CompnayName)  </td>
+
+
+        </tr>
+
+        <tr>
+
+            <th> Company Address </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().ApplyForTaxs.CompanyPhsicalAddress)  </td>
+
+
+        </tr>
+        <tr>
+
+            <th> Company Phone Number </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().ApplyForTaxs.CompanyContactNumber)  </td>
+
+
+        </tr>
+
+        <tr>
+
+            <th> Current Position </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().ApplyForTaxs.CurrentPosition)  </td>
+
+
+        </tr>
+
+
+        <tr>
+
+            <th> Current Salary </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().ApplyForTaxs.CurrentSalary)  </td>
+
+
+        </tr>
+
+
+        <tr>
+
+            <th> Amount Of Tax Due </th>
+            <td>  @Html.DisplayFor(model => model.FirstOrDefault().ApplyForTaxs.TaxAmount)  </td>
+
+
+        </tr>
+
+        <tr>
+
+            <th>  <h2 class="text-primary"> Local Bank Deposit  </h2>  <p></p>
+            
+            Account Number : 0000000000<p></p>
+            Account Name : FIRS <p></p>
+            BANNK : Any Bank Nation Wide 
+
+            
+            </th>
+            <td>
+               
+                @Html.ActionLink(" Pay Tax Online Now " + @item.ApplyForTaxs.TaxAmount, "PayNow", "Account", routeValues: null, htmlAttributes: new { @class = "btn btn-success" })
+
+                @Html.ActionLink("Go Back To Home Page ", "Paytax", "Account", routeValues: null, htmlAttributes: new { @class = "btn btn-primary" })
+            </td>
+
+
+
+        </tr>
+
+
+    }
+
+
+
+
+
+</table>
+
+
+
+
+
+

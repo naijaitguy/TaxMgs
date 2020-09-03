@@ -1,0 +1,40 @@
+﻿@model TaxManagementSystem.Models.ApplyForTax
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container"> 
+
+<h2 class="text-primary " style="margin-bottom:50px;">Applicant Details</h2>
+
+<div class="col-md-6">
+
+
+    <table class="table table-bordered table-striped table-hover ">
+
+
+        <tr>   <td>User Tin </td> <td>   @Html.DisplayFor(model => model.UserTin) </td> </tr>
+
+        <tr>   <td>Company Name </td> <td>  @Html.DisplayFor(model => model.CompnayName) </td> </tr>
+        <tr>   <td>Company Address </td> <td>  @Html.DisplayFor(model => model.CompanyPhsicalAddress)</td> </tr>
+        <tr>   <td> Staff ID  </td><td>  @Html.DisplayFor(model => model.StaffId) </td> </tr>
+        <tr>   <td> Current Position  </td><td>   @Html.DisplayFor(model => model.CurrentPosition) </td> </tr>
+        <tr>   <td> Current Salary </td> <td>  @Html.DisplayFor(model => model.CurrentSalary) </td> </tr>
+        <tr>   <td> Company Address </td>  <td> @Html.DisplayFor(model => model.CompanyContactNumber) </td> </tr>
+        <tr>   <td> Company Website </td>  <td>  @Html.DisplayFor(model => model.CompanyWebsite) </td> </tr>
+
+
+
+
+    </table>
+    <p>
+        @Html.ActionLink("Edit Details", "Edit", new { id = Model.BVN },htmlAttributes:new { @class = " btn btn-warning" }) |
+        @Html.ActionLink("Back to List", "AdminPanel" ,"Admin", routeValues:null, htmlAttributes: new { @class = " btn btn-success" })
+    </p>
+
+</div>
+
+</div>
